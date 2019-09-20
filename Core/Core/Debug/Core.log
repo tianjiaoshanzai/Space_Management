@@ -1,0 +1,4 @@
+﻿  Core.c
+c:\users\lenovo\source\repos\space_management\core\core\core.c(285): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\lenovo\source\repos\space_management\core\core\core.c(254): warning C4101: “q”: 未引用的局部变量
+  Core.vcxproj -> C:\Users\lenovo\source\repos\Space_Management\Core\Debug\Core.lib
